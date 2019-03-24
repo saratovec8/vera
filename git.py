@@ -1,6 +1,3 @@
-file
-file.txt
-git.py
-file
-file.txt
-git.py
+a=list('1230')
+a.sort() 
+print (a)
